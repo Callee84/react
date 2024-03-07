@@ -4,6 +4,6 @@ import react from "react";
 //    return <h1>Well, Hello there!</h1>
 //}
 
-const FuncGreet = () => <h1>Well, hello again</h1>
+const FuncGreet = () => <h1>Well, hello again!!</h1>
 
 export default FuncGreet;
